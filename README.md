@@ -15,3 +15,4 @@ This application is made for learning / testing purpose. It is still missing the
 
 - Proper Error Handling
 - Documentation
+- Test Coverage can be a bit improved
