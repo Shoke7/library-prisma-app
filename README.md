@@ -13,5 +13,5 @@ Data source are three CSV files containing all users, books and who borrowed wha
 # Note
 This application is made for learning / testing purpose. It is still missing the following stuff:
 
--Proper Error Handling
--Documentation
+- Proper Error Handling
+- Documentation
